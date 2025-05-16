@@ -35,7 +35,7 @@ var PokedexPokemonPanel = PokedexResultPanel.extend({
 				buf += '<div class="warning"><strong>Note:</strong> This is a made-up Pok&eacute;mon by <a href="http://www.smogon.com/cap/" target="_blank">Smogon CAP</a>.</div>';
 			}
 		}
-		buf += '<img src="https://github.com/YugiohDuel-Showdown/Yugioh-Monster-Sprites/blob/main/front/' + pokemon.spriteid + '.png" alt="" width="96" height="96" class="sprite" />';
+		buf += '<img src="https://raw.githubusercontent.com/YugiohDuel-Showdown/Yugioh-Monster-Sprites/refs/heads/main/front/' + pokemon.spriteid + '.png" alt="" width="96" height="96" class="sprite" />';
 		// buf += '<img src="'+Dex.resourcePrefix+'sprites/gen5/' + pokemon.spriteid + '.png'+'" alt="" width="96" height="96" class="sprite" />';
 
 		buf += '<dl class="typeentry">';
