@@ -6,11 +6,11 @@
 	<title>Pok&eacute;dex - Pok&eacute;mon Showdown</title>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
-	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css" />
+	<link rel="stylesheet" href="//play.yugiohduel.net/style/font-awesome.css" />
 	<link rel="stylesheet" href="/theme/panels.css?" />
 	<link rel="stylesheet" href="/theme/main.css?" />
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?" />
+	<link rel="stylesheet" href="//play.yugiohduel.net/style/utilichart.css?" />
 	<link rel="stylesheet" href="/theme/pokedex.css?" />
 
 	<!-- Workarounds for IE bugs to display trees correctly. -->
@@ -29,7 +29,7 @@
 				<li><a class="button nav-last purplebutton" href="//smogon.com/forums/" target="_blank">Forum</a></li>
 			</ul>
 			<ul class="nav nav-play">
-				<li><a class="button greenbutton nav-first nav-last" href="http://play.pokemonshowdown.com/">Play</a></li>
+				<li><a class="button greenbutton nav-first nav-last" href="http://play.yugiohduel.net/">Play</a></li>
 			</ul>
 			<div style="clear:both"></div>
 		</div>
@@ -67,20 +67,20 @@
 	<script src="/js/lib/backbone-min.js"></script>
 	<script src="/js/panels.js?"></script>
 
-	<script src="//play.pokemonshowdown.com/config/config.js?"></script>
-	<script src="//play.pokemonshowdown.com/js/battledata.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/search-index.js?"></script>
+	<script src="//play.yugiohduel.net/config/config.js?"></script>
+	<script src="//play.yugiohduel.net/js/battledata.js?"></script>
+	<script src="//play.yugiohduel.net/data/search-index.js?"></script>
 	<script src="//play.yugiohduel.net/data/pokedex.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/teambuilder-tables.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/learnsets.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/moves.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/abilities.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/items.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/formats-data.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/typechart.js?"></script>
-	<script src="//play.pokemonshowdown.com/data/aliases.js?"></script>
-	<script src="//play.pokemonshowdown.com/js/battle-dex-search.js?"></script>
-	<script src="//play.pokemonshowdown.com/js/search.js?"></script>
+	<script src="//play.yugiohduel.net/data/teambuilder-tables.js?"></script>
+	<script src="//play.yugiohduel.net/data/learnsets.js?"></script>
+	<script src="//play.yugiohduel.net/data/moves.js?"></script>
+	<script src="//play.yugiohduel.net/data/abilities.js?"></script>
+	<script src="//play.yugiohduel.net/data/items.js?"></script>
+	<script src="//play.yugiohduel.net/data/formats-data.js?"></script>
+	<script src="//play.yugiohduel.net/data/typechart.js?"></script>
+	<script src="//play.yugiohduel.net/data/aliases.js?"></script>
+	<script src="//play.yugiohduel.net/js/battle-dex-search.js?"></script>
+	<script src="//play.yugiohduel.net/js/search.js?"></script>
 	<script src="/js/pokedex.js?"></script>
 	<script src="/js/pokedex-pokemon.js?"></script>
 	<script src="/js/pokedex-moves.js?"></script>
