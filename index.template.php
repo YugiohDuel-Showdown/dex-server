@@ -24,7 +24,7 @@
 			<ul class="nav">
 				<li><a class="button nav-first" href="//play.yugiohduel.net/"><img src="/images/logo.png" alt="Yugioh Duel" width="146" height="44" /> Home</a></li>
 				<li><a class="button cur" href="/">Pok&eacute;dex</a></li>
-				<li><a class="button" href="//replay.thetrainercorner.net/">Replay</a></li>
+				<li><a class="button" href="//replay.yugiohduel.net/">Replay</a></li>
 			</ul>
 			<ul class="nav nav-play">
 				<li><a class="button greenbutton nav-first nav-last" href="http://play.yugiohduel.net/">Play</a></li>
